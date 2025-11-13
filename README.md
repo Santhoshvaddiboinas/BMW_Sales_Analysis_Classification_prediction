@@ -1,4 +1,61 @@
-BMW_Sales:
+**BMW_Sales:
+
+BMW Sales Data Classification Project**
+
+This repository presents a machine learning project aimed at performing classification on BMW sales data. The project documents data processing, feature engineering, model development, and evaluation using accuracy scores for both training and test sets.
+
+**Project Overview
+
+Objective:**
+
+To build a classification model that predicts sales-related categories using historical BMW sales data.
+
+Machine Learning Task:
+Classification
+
+**Model Accuracy:**
+
+Test accuracy: 87.5%
+
+Train accuracy: 87.4%
+
+Dataset
+
+The BMW sales dataset contains features such as:
+
+Product information
+
+Sales figures
+
+Customer segments
+
+Geographical region
+
+Other relevant variables
+
+Details about columns and their descriptions are provided in the data/ folder or in the notebook.
+
+Workflow
+
+Data Cleaning:
+Handling missing values and outliers.
+
+Feature Engineering:
+Creating additional predictors for improving accuracy.
+
+Model Training:
+Building and tuning a classification algorithm.
+
+Evaluation:
+Comparing accuracy scores for train and test sets.
+
+Visualization:
+Displaying feature importances and results.
+
+Results
+Achieved balanced accuracy scores on both training and test sets, indicating robust generalization and minimal overfitting.
+
+Visual analyses help interpret model decisions and highlight important factors in classification performance
 # BMW Sales Analysis & 2025-2029 Forecast  
 
 **Notebook:** `BMW_ (1).ipynb`  
